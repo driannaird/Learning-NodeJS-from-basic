@@ -26,7 +26,7 @@ and
 
 What can you learn here?
 
-- [REPL (Read, Eval, Print, Loop)](https://github.com/Drian-key/REPL)
+- [REPL (Read, Eval, Print, Loop)](https://github.com/Drian-key/Learning-NodeJS-from-basic/REPL)
 
 ## Reference
 
