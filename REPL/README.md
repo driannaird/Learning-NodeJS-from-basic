@@ -34,3 +34,34 @@ To exit REPL you can run
 ```bash
   > .exit
 ```
+
+## Load file js
+
+```bash
+  > .load file.js
+```
+
+## Save REPL to file js
+
+```bash
+  > .save namefile.js
+```
+
+## Break
+
+```bash
+  > .break
+```
+
+example
+
+```bash
+  > const sayHello = (name, age) => {
+  ... .break
+```
+
+## Open editor REPL
+
+```bash
+  > .editor
+```
