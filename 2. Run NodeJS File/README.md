@@ -1,8 +1,12 @@
 ## Open your Gitbash and run your js file
 
 go to file directory
-example cd ./2. Run NodeJS File
+example
 
 ```bash
-  node yourname.js
+  cd ./2. Run NodeJS File
+```
+
+```bash
+  node filename.js
 ```
